@@ -1,0 +1,12 @@
+https://www.google.ru/ --> https 
+https://botanicgarden.ru/ --> https 
+https://tinkoff.ru/ --> https 
+https://aliexpress.ru/ --> https 
+http://priut-koshek.ru/ --> http
+
+
+
+Осноновй язык, Фреймворки языка, доп 2-3 языка, 
+Базы Данных, API, 
+Контейнеризация, Проектирование приложений
+Ближайшие Технологии
